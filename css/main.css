@@ -61,7 +61,7 @@ a:hover {text-decoration: none;}
   height: 390px;
   text-align: center;
   background-color: #141414;
-  background: url(../img/moonbg.jpg);
+  background: url("../img/moonbg.jpg");
 }
 
 
