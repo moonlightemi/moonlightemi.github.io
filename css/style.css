@@ -369,15 +369,7 @@ html, body {
   }
 }
 
-.cd-intro {
-  position: relative;
-  height: 85%;
-  background: url("/img/headerbg.jpg") no-repeat center center;
-  background-size: cover;
-  z-index: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+
 
 
 @media only screen and (min-width: 1170px) {
